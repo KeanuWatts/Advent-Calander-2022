@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmziR22VL7u9fKpxTvBXtPFmEqT2PttD2bsYn1GmZDuCaOc1aqt2r2NVMU38kIeQ7snhpLYOwHSYYeFJyI2MQg==",
+  "success": true,
+  "projectFilePath": "D:\\work\\Advent Challange\\Day 1\\Task 1\\Task 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keanu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

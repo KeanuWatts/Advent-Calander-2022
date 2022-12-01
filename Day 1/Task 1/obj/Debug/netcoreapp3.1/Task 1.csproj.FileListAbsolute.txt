@@ -1,0 +1,13 @@
+D:\work\Advent Challange\Day 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csprojAssemblyReference.cache
+D:\work\Advent Challange\Day 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfoInputs.cache
+D:\work\Advent Challange\Day 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfo.cs
+D:\work\Advent Challange\Day 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.CoreCompileInputs.cache
+D:\work\Advent Challange\Day 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.exe
+D:\work\Advent Challange\Day 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.deps.json
+D:\work\Advent Challange\Day 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.json
+D:\work\Advent Challange\Day 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.dev.json
+D:\work\Advent Challange\Day 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.dll
+D:\work\Advent Challange\Day 1\Task 1\bin\Debug\netcoreapp3.1\Task 1.pdb
+D:\work\Advent Challange\Day 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.dll
+D:\work\Advent Challange\Day 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.pdb
+D:\work\Advent Challange\Day 1\Task 1\obj\Debug\netcoreapp3.1\Task 1.genruntimeconfig.cache
