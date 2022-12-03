@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aW9GXWX/tEcT/6p0uZZNxsSDmbLmoxdqJ9YYPbPkSRhQvSXfaQb7CjZkuYjunoPLBAu/gRoT/+t8chuRx78qLw==",
+  "success": true,
+  "projectFilePath": "D:\\work\\AdventC2022\\Advent-Calander-2022\\Day 3\\Task 1\\Task 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keanu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\keanu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
