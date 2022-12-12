@@ -1,0 +1,15 @@
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\Day 12.csproj.AssemblyReference.cache
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\Day 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\Day 12.AssemblyInfoInputs.cache
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\Day 12.AssemblyInfo.cs
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\Day 12.csproj.CoreCompileInputs.cache
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\bin\Debug\net7.0\Day 12.exe
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\bin\Debug\net7.0\Day 12.deps.json
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\bin\Debug\net7.0\Day 12.runtimeconfig.json
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\bin\Debug\net7.0\Day 12.dll
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\bin\Debug\net7.0\Day 12.pdb
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\Day 12.dll
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\refint\Day 12.dll
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\Day 12.pdb
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\Day 12.genruntimeconfig.cache
+D:\work\AdventC2022\Advent-Calander-2022\Day 12\obj\Debug\net7.0\ref\Day 12.dll
